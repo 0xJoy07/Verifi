@@ -12,7 +12,7 @@ description = "Agentic AI fact-checking microservice for the Verifi* platform"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-  { name = "Joy",      github = "https://github.com/Joy-S-07" },
+  { name = "Joy",      github = "https://github.com/0xJoy07" },
   { name = "Shubhadip",github = "https://github.com/Shubhadip-Codes" },
   { name = "Aranya",   github = "https://github.com/AKr3106" },
   { name = "Sayantika", github = "https://github.com/SayantikaBera-05" },

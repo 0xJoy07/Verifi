@@ -5,7 +5,7 @@ Converts web page URLs into clean, LLM-friendly Markdown using
 the Jina AI Reader API (r.jina.ai). This scraped content serves
 as evidence for the Analyst stage in the RAG pipeline.
 
-Author: Joy-S-07
+Author: 0xJoy07
 """
 
 import httpx

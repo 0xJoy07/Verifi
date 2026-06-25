@@ -11,7 +11,7 @@ Pipeline Stages (4-stage RAG pipeline):
     4. VERIFYING_REALITY   → Analyst: Evidence-backed forensic verification
     5. COMPLETED/ERROR     → Final verdict or error
 
-Author: Joy-S-07
+Author: 0xJoy07
 """
 
 import json

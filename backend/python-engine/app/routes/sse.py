@@ -18,7 +18,7 @@ NOTE: pipeline_stream() IS the orchestrator for SSE requests.
       FraudDetector.analyze() is only used by the non-SSE /detect route.
       All stage banner prints must live here, not in detector.py.
 
-Author: Joy-S-07
+Author: 0xJoy07
 """
 
 import json

@@ -10,7 +10,7 @@ All external network requests use async httpx clients with proper
 async/await so that one user's wait-time never blocks other concurrent
 users on the event loop.
 
-Author: Joy-S-07
+Author: 0xJoy07
 """
 
 import asyncio

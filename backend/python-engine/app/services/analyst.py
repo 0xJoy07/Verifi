@@ -13,7 +13,7 @@ Pipeline:
 Uses OpenRouter API via the OpenAI SDK with streaming for real-time
 console visibility during development.
 
-Author: Joy-S-07
+Author: 0xJoy07
 """
 
 import json

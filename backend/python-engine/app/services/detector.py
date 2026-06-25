@@ -9,7 +9,7 @@ and Serper is configured, the orchestrator retrieves real-time evidence
 before analysis. If evidence is unavailable, the Analyst marks the claim as
 CONTRADICTED -- it does NOT fall back to internal knowledge.
 
-Author: Joy-S-07
+Author: 0xJoy07
 """
 
 import traceback

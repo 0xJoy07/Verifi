@@ -5,7 +5,7 @@ Retrieves real-time Google search results for a given claim using
 the Serper.dev API. Returns structured search results that feed
 into the Reader and Analyst stages of the RAG pipeline.
 
-Author: Joy-S-07
+Author: 0xJoy07
 """
 
 import httpx

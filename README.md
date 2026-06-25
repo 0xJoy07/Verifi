@@ -71,7 +71,7 @@ Article-Fake-Reality-Checker/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Joy-S-07/Article-Fake-Reality-Checker.git
+git clone https://github.com/0xJoy07/Article-Fake-Reality-Checker.git
 cd Article-Fake-Reality-Checker
 ```
 
@@ -139,7 +139,7 @@ You will need to configure `.env` files in each service directory. Key variables
 
 Verifi is built with 🧠 and ❤️ by:
 
-- **Joy** - [Profile](https://github.com/Joy-S-07)
+- **Joy** - [Profile](https://github.com/0xJoy07)
 - **Shubhadip** - [Profile](https://github.com/Shubhadip-Codes)
 - **Aranya** - [Profile](https://github.com/AKr3106)
 - **Sayantika** - [Profile](https://github.com/SayantikaBera-05)
